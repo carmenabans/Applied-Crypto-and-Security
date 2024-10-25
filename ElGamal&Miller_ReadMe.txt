@@ -1,9 +1,8 @@
 ## README 
 ## Carmen Abans
-## Ariful Islam
+
 
 ## Date: 3/25/2022
-## Assignment 3
 
 The algorithm gets a key size in bits and plaintext from the user. 
 The algorithm will output the encrypted message and the decrypted message using ElGamal Public-Key  Encryption.
@@ -48,7 +47,7 @@ Run the code and the program should work.
 This is also where we developed the code.
 
 If this doesn't work open a new project in PyCharm delete all content in the main.py file that will be generated. 
-Copy and paste the content in carmen_ariful_elGama.py and run the code.
+Copy and paste the content in elGamal.py and run the code.
 
 
 What happens when the code runs:
