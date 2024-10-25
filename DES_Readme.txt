@@ -1,8 +1,6 @@
 ## Carmen Abans
-## Ariful Islam
 
 ## Date: 2/19/2022
-## Assignment 2
 
 The algorithm gets a plaintext and a key from the user. The algorithm will output the encrypted message and the decrypted message using Data Encryption Standard (DES).
 
