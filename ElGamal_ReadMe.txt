@@ -42,7 +42,7 @@ This function decrypts the ciphertext using the ElGamal algorithm
 
 How to run code:
 After unzipping the folder and opening a Google colaboratory file. 
-Open carmen_ariful_elGama.py in Notepad or Notepad++ and copy and paste all the content in a cell within the Google Colaboratory file. 
+Open elGamal.py in Notepad or Notepad++ and copy and paste all the content in a cell within the Google Colaboratory file. 
 Run the code and the program should work.
 This is also where we developed the code.
 
